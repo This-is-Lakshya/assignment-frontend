@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-league-gothic: "League Gothic";
+  --font-jockey-one: "Jockey One";
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-9xl: 1.75rem;
+  --font-size-31xl: 3.13rem;
+  --font-size-xl: 1.25rem;
+  --font-size-14xl: 2.06rem;
+
+  /* Colors */
+  --color-gray: #191d28;
+  --color-dimgray: #6f7178;
+  --color-mediumturquoise-100: #3dc6c1;
+  --color-white: #fff;
+  --color-indianred: #db5757;
+  --color-darkslategray: #2e3241;
+  --color-lightseagreen: #56bcb6;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}
